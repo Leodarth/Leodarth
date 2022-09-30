@@ -1,5 +1,5 @@
 #sobre mim
-- :shipit: ola, eu sou o leonardo 
+- :shipit: ola, eu sou o dono desse perfil e meu nome é Leonardo 
 - :mag_right: eu estou enteressado em programação e musica 
 - :books: eu estou estudando no momento sobre programação e html
 - :iphone: como chegar até mim: pelo email leonardhruchdelsilvh@gmail.com
