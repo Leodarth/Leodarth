@@ -1,5 +1,5 @@
 #sobre mim
-- :shipit: oi, eu sou o leonardo 
+- :shipit: ola, eu sou o leonardo 
 - :mag_right: eu estou enteressado em programação e musica 
 - :books: eu estou estudando no momento sobre programação e html
 - :iphone: como chegar até mim: pelo email leonardhruchdelsilvh@gmail.com
